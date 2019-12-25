@@ -22,7 +22,7 @@ For a complete end-to-end walkthrough of creating this application, please refer
 
 1. Clone this repository using Git for Windows (http://www.git-scm.com/), or download the zip file.
 
-1. From Visual Studio, open the **GetStarted.sln** file from the root directory.
+1. From Visual Studio, open the **CosmosGettingStarted.sln** file from the root directory.
 
 1. In Visual Studio Build menu, select **Build Solution** (or Press F6). 
 
